@@ -31,7 +31,7 @@
 ### 📌 Pinned Projects
 
 - 🔐 [**majorProject**](https://github.com/rajnish-chaube/majorProject) — Final year project using Python, Hashing(MD5 & SHA256), encryption & decryption with GUI, AES, PDF encryption.
-- 🚧 [**own-portfolio-website**](https://github.com/rajnish-chaube/raje-com) — Built using HTML, CSS, javaScript, vite.js and modern UI.
+- 🚧 [**my-e-commerce-website**](https://github.com/rajnish-chaube/raje-com) — Built using HTML, CSS, javaScript, vite.js and modern UI.
 - 🧠 [**Task-1-Road-Line-Detection-System**](https://github.com/rajnish-chaube/Task-1-Road-Line-Detection-System) — ML project using image processing.
 
 ---
