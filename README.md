@@ -22,14 +22,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajnish-chaube&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnish-chaube&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnish-chaube&layout=compact&theme=radical" alt="Top Languages"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnish-chaube&theme=radical" alt="GitHub Streak"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnish-chaube&layout=compact&theme=radical" alt="Top Languages"/> -->
 </p>
 
 ---
 
 ### 📌 Pinned Projects
-
+- 📝 [**notesApp**](https://github.com/rajnish-chaube/notes-app) — Built a notes maker web app using MERN (MongoDB, Express.js, React.js, Node.js).
 - 🔐 [**majorProject**](https://github.com/rajnish-chaube/majorProject) — Final year project using Python, Hashing(MD5 & SHA256), encryption & decryption with GUI, AES, PDF encryption.
 - 🚧 [**my-e-commerce-website**](https://github.com/rajnish-chaube/raje-com) — Built using HTML, CSS, javaScript, vite.js and modern UI.
 - 🧠 [**Task-1-Road-Line-Detection-System**](https://github.com/rajnish-chaube/Task-1-Road-Line-Detection-System) — ML project using image processing.
